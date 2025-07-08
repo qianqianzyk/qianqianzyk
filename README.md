@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm qianqianzyk. Welcome!" src="./assets/readme-header.png" /></a></p>
 
-<!--
-**qianqianzyk/qianqianzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Hello, I'm qianqianzyk. Welcome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+[![](https://github-readme-stats.vercel.app/api?username=qianqianzyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianqianzyk&layout=compact&hide_border=true&langs_count=10)
+
+I'm a student from China.
+I love coding!
+
+**My Github Contributions**
+
+![](https://raw.githubusercontent.com/qianqianzyk/qianqianzyk/main/assets/github-contribution-grid-snake.svg)
