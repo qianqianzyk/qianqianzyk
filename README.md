@@ -2,15 +2,17 @@
 
 <br />
 
-Hello, I'm qianqianzyk. Welcome!
+Hello, I'm qianqianzyk.<br>
+Welcome!
 
 **About me**
 
 [![](https://github-readme-stats.vercel.app/api?username=qianqianzyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qianqianzyk&layout=compact&hide_border=true&langs_count=10)
 
-I'm a student from China.
-I love coding!
+I'm a student from China.<br>
+I love coding!<br>
+And welcome to my [blog](https://blog.qianqianzyk.top/)
 
 **My Github Contributions**
 
