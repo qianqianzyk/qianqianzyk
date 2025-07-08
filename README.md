@@ -12,7 +12,8 @@ Welcome!
 
 I'm a student from China.<br>
 I love coding!<br>
-And welcome to my [blog](https://blog.qianqianzyk.top/)
+And welcome to my [blog](https://blog.qianqianzyk.top/)<br>
+If you have any question, please contact me by email.(qianqianzyk@qq.com)
 
 **My Github Contributions**
 
